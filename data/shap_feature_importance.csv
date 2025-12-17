@@ -1,0 +1,15 @@
+Feature,Mean |SHAP|
+employment_status,1.1740214
+debt_to_income_ratio,0.8631023
+credit_score,0.60262024
+grade_subgrade,0.177087
+loan_amount,0.10918256
+annual_income,0.08398519
+interest_rate,0.07473845
+education_level,0.04556224
+loan_purpose,0.0416427
+gender_Male,0.017116722
+marital_status_Married,0.013075414
+marital_status_Single,0.008055214
+gender_Other,0.0008391656
+marital_status_Widowed,0.0005580113
